@@ -1,0 +1,9 @@
+README.md
+setup.py
+mac-copy-capture/__init__.py
+mac-copy-capture/mac-copy-capture.py
+mac_copy_capture.egg-info/PKG-INFO
+mac_copy_capture.egg-info/SOURCES.txt
+mac_copy_capture.egg-info/dependency_links.txt
+mac_copy_capture.egg-info/requires.txt
+mac_copy_capture.egg-info/top_level.txt

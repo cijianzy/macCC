@@ -1,0 +1,9 @@
+README.md
+setup.py
+macCC/__init__.py
+macCC/macCC.py
+macCC.egg-info/PKG-INFO
+macCC.egg-info/SOURCES.txt
+macCC.egg-info/dependency_links.txt
+macCC.egg-info/requires.txt
+macCC.egg-info/top_level.txt

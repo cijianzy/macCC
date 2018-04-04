@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: mac-copy-capture
+Version: 0.0.9
+Summary: A tool to capture Mac clipboard image
+Home-page: http://cijianzy.com
+Author: cijianzy
+Author-email: cijianzy@gmail.com
+License: UNKNOWN
+Description: A tool to capture Mac clipboard image
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 3 - Alpha
